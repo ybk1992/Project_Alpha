@@ -13,5 +13,5 @@
 	</article>
 	<footer>
 	</footer>
-</body>
+</body>".gitignore"
 </html>
