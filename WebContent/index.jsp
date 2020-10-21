@@ -13,7 +13,7 @@
 	
 	<article>
 	</article>
-	<footer>
+	<footer>zzzz
 	</footer>
 </body>".gitignore"
 </html>
