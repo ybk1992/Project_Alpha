@@ -9,15 +9,13 @@
 <body>
 	<header>헤더입니다
 		<div>회원가입</div>
+		<div>about</div>
+		<div>관리자</div>
 	</header>
 	
 	<article>아티클
 	</article>
-<<<<<<< HEAD
-	<footer>zzzz
-=======
-	<footer>픗터입니다
->>>>>>> branch 'master' of https://github.com/ybk1992/Project_Alpha.git
+	<footer>풋터입니다
 	</footer>
 </body>".gitignore"
 </html>
