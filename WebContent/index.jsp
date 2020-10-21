@@ -11,9 +11,9 @@
 		<div>회원가입</div>
 	</header>
 	
-	<article>
+	<article>아티클
 	</article>
-	<footer>
+	<footer>픗터입니다
 	</footer>
 </body>".gitignore"
 </html>
